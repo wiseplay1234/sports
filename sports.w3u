@@ -1,0 +1,67 @@
+{
+ "name": "Sports",
+ "author": "admin1509",
+ "url": "https://raw.githubusercontent.com/wiseplay1234/sports/main/sports.w3u",
+ "groups": [
+ 
+{"name": "Admin1509 Sports",
+"stations": [
+{"name": "U20 Asian Cup 2023: Indonesia U20 - Iraq U20",
+"image": "https://user-images.githubusercontent.com/29000195/221863250-63d8104b-c7f2-4460-bc64-35b1702490d2.png",
+"info": "VKontakte",
+"url": "https://vk.com/video_ext.php?oid=-216965055&id=456239047&hash=59a5411642ee74bf",
+"isHost": "true"},
+{"name": "U20 Asian Cup 2023: Indonesia U20 - Iraq U20",
+"image": "https://user-images.githubusercontent.com/29000195/221863250-63d8104b-c7f2-4460-bc64-35b1702490d2.png",
+"info": "Odnoklassniki",
+"url": "https://ok.ru/video/5613755173392",
+"isHost": "true"}
+]},
+ 
+{"name": "LVTT Sport",
+"stations": [
+{"name": "Tập 1",
+"image": "https://user-images.githubusercontent.com/29000195/221863250-63d8104b-c7f2-4460-bc64-35b1702490d2.png",
+"info": "VKontakte",
+"url": "https://vk.com/video_ext.php?oid=-216965055&id=456239047&hash=59a5411642ee74bf",
+"isHost": "true"},
+{"name": "Tập 16 - Tập cuối",
+"image": "https://user-images.githubusercontent.com/29000195/221863250-63d8104b-c7f2-4460-bc64-35b1702490d2.png",
+"info": "Odnoklassniki",
+"url": "https://ok.ru/video/5613755173392",
+"isHost": "true"}
+]},
+
+{"name": "BEP40 TV",
+"stations": [
+{"name": "Live stream",
+"image": "https://i.mycdn.me/videoPreview?mid=4618480000612&type=32&tkn=Y66zcncFjLW_V6M5vyhbo58Qsng&fn=external_8",
+"url": "https://ok.ru/video/4618480000612",
+"isHost": "true"},
+{"name": "Live stream",
+"image": "https://i.mycdn.me/image?id=937464633956&t=50&plc=WEB&tkn=*k5ci_5P79aW3djU9Gj6gujzQTtU&fn=external_8",
+"url": "https://ok.ru/video/4617509543524",
+"isHost": "true"},
+{"name": "Live stream",
+"image": "https://i.mycdn.me/image?id=937218054500&t=50&plc=WEB&tkn=*ZkBZiVpzEhgu3sKBezLCHpkGmyI&fn=external_8",
+"url": "https://ok.ru/video/4588383051364",
+"isHost": "true"},
+{"name": "Live stream",
+"image": "https://i.mycdn.me/image?id=937641976164&t=50&plc=WEB&tkn=*RnIiHFXvKOa_jeeqpgIOFWDJd6I&fn=external_8",
+"url": "https://ok.ru/video/4564089380452",
+"isHost": "true"},
+{"name": "Live stream",
+"image": "https://i.mycdn.me/videoPreview?mid=4103920819812&type=32&tkn=8X1s5gWoJMXjgV85c4GLrOWnL5U&fn=external_8",
+"url": "https://ok.ru/video/4103920819812",
+"isHost": "true"},
+{"name": "Live stream",
+"image": "https://i.mycdn.me/videoPreview?id=3620390570596&type=32&idx=5&tkn=0VJfCvgS6Nh9aR7Erw48R8cWjIU&fn=external_8",
+"url": "https://ok.ru/video/4638003830372",
+"isHost": "true"},
+{"name": "Live stream",
+"image": "https://i.mycdn.me/videoPreview?id=3617781320292&type=32&idx=5&tkn=IEcMgcCNs3-kzCaXlKfwpFQvbSM&fn=external_8",
+"url": "https://ok.ru/video/4637275528804",
+"isHost": "true"}
+]}
+
+]}
