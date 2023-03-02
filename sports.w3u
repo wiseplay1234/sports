@@ -6,6 +6,16 @@
  
 {"name": "Admin1509 Sports",
 "stations": [
+{"name": "2023.02.25_EPL_2022_23_R.25_Everton_FC_vs_Aston_Villa_1080i_Kplus",
+"image": "https://i.mycdn.me/getVideoPreview?id=3803612383925&idx=12&type=39&tkn=FaFD1mZ6mZQ88VEvYNDP7zLbVeo",
+"info": "VKontakte",
+"url": "https://vk.com/video_ext.php?",
+"isHost": "true"},
+{"name": "2023.02.25_EPL_2022_23_R.25_Everton_FC_vs_Aston_Villa_1080i_Kplus",
+"image": "https://i.mycdn.me/getVideoPreview?id=3803612383925&idx=12&type=39&tkn=FaFD1mZ6mZQ88VEvYNDP7zLbVeo",
+"info": "Odnoklassniki",
+"url": "https://ok.ru/video/",
+"isHost": "true"},
 {"name": "Dubai Championships - Day 1",
 "image": "https://i.mycdn.me/getVideoPreview?id=3833467833045&idx=4&type=39&tkn=bnFO90e0oYlwlmcJaEOpbNFZVnI",
 "info": "VKontakte",
