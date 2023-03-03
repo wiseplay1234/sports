@@ -7,12 +7,12 @@
 {"name": "Admin1509 Sports",
 "stations": [
 {"name": "2023.02.25_EPL_2022_23_R.25_Leeds_United_vs_Southampton_1080i_Kplus",
-"image": "https://i.mycdn.me/getVideoPreview?",
+"image": "https://i.mycdn.me/getVideoPreview?id=3876169910927&idx=15&type=39&tkn=zlkJSAGhFTdirFKuXAaznWYwZn0",
 "info": "VKontakte",
-"url": "https://vk.com/video_ext.php?",
+"url": "https://vk.com/video_ext.php?oid=-214691467&id=456239536&hash=6d05ec1b4c13e701&hd=2",
 "isHost": "true"},
 {"name": "2023.02.25_EPL_2022_23_R.25_Leeds_United_vs_Southampton_1080i_Kplus",
-"image": "https://i.mycdn.me/getVideoPreview?",
+"image": "https://i.mycdn.me/getVideoPreview?id=3876169910927&idx=15&type=39&tkn=zlkJSAGhFTdirFKuXAaznWYwZn0",
 "info": "Odnoklassniki",
 "url": "https://ok.ru/video/",
 "isHost": "true"},
@@ -70,15 +70,15 @@
  
 {"name": "LVTT Sport",
 "stations": [
-{"name": "Tập 1",
+{"name": "1st HALF: Leicester - Arsenal (Clean Audio)",
 "image": "https://user-images.githubusercontent.com/29000195/221863250-63d8104b-c7f2-4460-bc64-35b1702490d2.png",
 "info": "VKontakte",
-"url": "https://vk.com/video_ext.php?oid=-216965055&id=456239047&hash=59a5411642ee74bf",
+"url": "https://vk.com/video_ext.php?",
 "isHost": "true"},
-{"name": "Tập 16 - Tập cuối",
+{"name": "1st HALF: Leicester - Arsenal (Clean Audio)",
 "image": "https://user-images.githubusercontent.com/29000195/221863250-63d8104b-c7f2-4460-bc64-35b1702490d2.png",
 "info": "Odnoklassniki",
-"url": "https://ok.ru/video/5613755173392",
+"url": "https://ok.ru/video/",
 "isHost": "true"}
 ]},
 
