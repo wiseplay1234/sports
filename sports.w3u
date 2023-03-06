@@ -6,6 +6,16 @@
  
 {"name": "Admin1509 Sports",
 "stations": [
+{"name": "2023.03.05_EPL_2022_23_R.26_Liverpool_FC_vs_Manchester_United_720p_90p_FEED_English",
+"image": "https://i.mycdn.me/getVideoPreview?",
+"info": "VKontakte",
+"url": "https://vk.com/video_ext.php?",
+"isHost": "true"},
+{"name": "2023.03.05_EPL_2022_23_R.26_Liverpool_FC_vs_Manchester_United_720p_90p_FEED_English",
+"image": "https://i.mycdn.me/getVideoPreview?",
+"info": "Odnoklassniki",
+"url": "https://ok.ru/video/",
+"isHost": "true"},
 {"name": "2023.03.05_EPL_2022_23_R.26_Liverpool_FC_vs_Manchester_United_480p_90p_television",
 "image": "https://i.mycdn.me/getVideoPreview?",
 "info": "VKontakte",
