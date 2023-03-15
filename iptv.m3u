@@ -1,0 +1,314 @@
+#XTM3U url-tvg="http://trada.info/epg.xml,http://gg.gg/coca_colaF,http://gg.gg/thailans,https://epg.112114.xyz/pp.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
+#EXTINF:-1  group-title="🏆| Thể Thao" tvg-logo="https://i.ibb.co/8Dhd2BR/onegolf-HD.png", ONE GOLF HD
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+  
+#EXTINF:-1 tvg-logo="https://imgur.com/acLhL9F.png" group-title="🏆| Thể Thao",Abu Dhabi Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/XBwtxX6.png" group-title="🏆| Thể Thao",Abu Dhabi Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/HZKxrt4.png" group-title="🏆| Thể Thao",Abu Dhabi Sports 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="http://gg.gg/130co2",Diema Sport 1
+http://0.vylc.name.vn/Diema1
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="http://gg.gg/130cnz",Diema Sport 2
+http://0.vylc.name.vn/Diema2
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="http://gg.gg/130cnu",Diema Sport 3
+http://0.vylc.name.vn/Diema3
+  
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="https://tinyurl.com/4kftf5b8",Setanta Sports 1
+http://0.vylc.name.vn/Setanta1
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="https://tinyurl.com/4kftf5b8",Setanta Sports 2
+http://0.vylc.name.vn/Setanta2
+  
+#EXTINF: group-title="🏆| Thể Thao" tvg-logo="http://gg.gg/12zfix",ESPN HD
+http://xcui.vitvabc.xyz:8880/287994003501/287994003501/31034
+#http://xcui.vitvabc.xyz:8880/live/287994016405/287994016405/31034.m3u8
+#EXTINF: group-title="🏆| Thể Thao" tvg logo="http://gg.gg/12zfit",ESPN2 HD
+http://xcui.vitvabc.xyz:8880/287994003501/287994003501/16716
+#EXTINF: group-title="🏆| Thể Thao" tvg-logo="http://gg.gg/12zfir",ESPN3 HD
+http://xcui.vitvabc.xyz:8880/287994003501/287994003501/16725
+#http://xcui.vitvabc.xyz:8880/live/287994016405/287994016405/16725.m3u8
+#EXTINF: group-title="🏆| Thể Thao" tvg-logo="http://gg.gg/12zfie",ESPN4 HD
+http://xcui.vitvabc.xyz:8880/287994003501/287994003501/31148
+#http://xcui.vitvabc.xyz:8880/live/287994016405/287994016405/31148.m3u8
+#EXTINF: group-title="🏆| Thể Thao" tvg-logo="http://gg.gg/1304eo",ESPN Extra HD
+
+
+#EXTINF: group-title="🏆| Thể Thao" tvg logo="http://gg.gg/12zfit",ESPN2 US
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/272119
+#EXTINF: group-title="🏆| Thể Thao" tvg-logo="http://gg.gg/12zfie",ESPN4 US
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/272121
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="http://gg.gg/12wxeu",Star Sports Select 1
+
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="http://gg.gg/12wxfu",Star Sports Select 2
+
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="http://gg.gg/12wxeu",Star Sports Select 1 sv1
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/82628
+  
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="http://gg.gg/12wxfu",Star Sports Select 2 sv2
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/16619
+
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="http://gg.gg/12ygmn",Star Sports 1
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/3631
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="http://gg.gg/12ygmq",Star Sports 3
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/62584
+
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="🏆| Thể Thao",CCTV-5 高清
+#EXTVLCOPT:http-user-agent="CloudTV"
+http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv5HD/__op/default/__f//index.m3u8
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="🏆| Thể Thao",CCTV5+ 高清
+#EXTVLCOPT:http-user-agent="CloudTV"
+http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv5SportHD/__op/default/__f//index.m3u8
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="🏆| Thể Thao",CCTV-16 高清
+#EXTVLCOPT:http-user-agent="CloudTV"
+http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv16HD/__op/default/__f//index.m3u8
+#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="📺| KÊNH 4K",欢笑剧场4K
+http://bytedance.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f//index.m3u8
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="📺| KÊNH 4K",CCTV-4K
+#EXTVLCOPT:http-user-agent="CloudTV"
+http://bytedance.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f//index.m3u8
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="📺| KÊNH 4K",CCTV16-4K
+#EXTVLCOPT:http-user-agent="CloudTV"
+http://bytedance.live.cqccn.com/__cl/cg:live/__c/CCTV16_4K/__op/default/__f//index.m3u8
+  
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="https://tiny.one/cctv5", CCTV5 - Thể Thao
+#http://0.vylc.name.vn/CCTV5
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="https://tiny.one/cctv5p", CCTV5+ Thể Thao
+#http://0.vylc.name.vn/CCTV5p
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="https://i.ibb.co/X76FGhP/SPOTV.png",SPOTV1
+#https://tiny.one/SPOTV1
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="https://i.ibb.co/wSGW6yG/SPOTV2.png",SPOTV2
+#https://tiny.one/SPOTV2
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="http://gg.gg/12z95e",Edge Sport
+https://edgesport-samsunguk.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="http://gg.gg/12z94v",Unbeaten
+https://unbeaten-roku.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="https://tiny.one/ccwwe",WWE
+http://iptvh.it/WWE
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="https://tiny.one/tennischannel",Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:0 group-title="🏆| Thể Thao" tvg-logo="https://i.ibb.co/MSSKTB9/redbull.png",RedBull
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#https://ch.iptvmate.net/5e936d2385f3fc57ac516fc3.m3u8
+
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="https://i.ibb.co/M8y7nSg/Polsat-Sport.png",Polsat Sport
+http://0.vylc.name.vn:8080/stream/channelid/701074256
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="https://i.ibb.co/YQz1thZ/Polsat-Sport-Extra.png",Polsat Sport Extra
+http://0.vylc.name.vn:8080/stream/channelid/842661572
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="https://i.ibb.co/hKHzWvZ/Polsat-Sport-News.png",Polsat Sport News
+http://2.cvmtv.site:8080/stream/channelid/1209045940
+
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="https://tinyurl.com/46hn3yc5",Sport Klub 1
+
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="https://tinyurl.com/3jfydje5",Sport Klub 2
+
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="https://tinyurl.com/3x3nenxn",Sport Klub 3
+
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="https://tinyurl.com/msz8mbfx",Sport Klub 4
+
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="https://tinyurl.com/25haf6m5",Sport Klub 5
+
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="https://tinyurl.com/3swh2tmv",Sport Klub 6
+
+
+#EXTINF: group-title="🏆| Thể Thao" tvg-logo="https://imgur.com/eaY9HWT.png",DIGI SPORT 1
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/126059
+#EXTINF: group-title="🏆| Thể Thao" tvg logo="https://imgur.com/ZmGnG4l.png",DIGI SPORT 2
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/126060
+#EXTINF: group-title="🏆| Thể Thao" tvg-logo="https://imgur.com/MOiIdbg.jpg",DIGI SPORT 3
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/126082
+#EXTINF: group-title="🏆| Thể Thao" tvg-logo="https://imgur.com/bXHGV4I.png",DIGI SPORT 4
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/126083
+  
+#EXTINF: group-title="🏆| Thể Thao" tvg-logo="https://imgur.com/4IcUOLq.png",Nova Sports Start
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/295161
+
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="http://gg.gg/1312t5",Ziggo Sport Select
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/851
+http://2.cvmtv.site:8080/stream/channelid/1500720339
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="http://gg.gg/1312t9",Ziggo Sport Voetbal
+http://flysilo.top:8080/live/8031659300659217/8611659300659217/9969.ts
+http://2.cvmtv.site:8080/stream/channelid/414989288
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="http://gg.gg/1312td",Ziggo Sport Tennis
+http://2.cvmtv.site:8080/stream/channelid/1547463735
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="http://gg.gg/1312tf",Ziggo Sport Golf
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/4514
+http://2.cvmtv.site:8080/stream/channelid/1127618614
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="http://gg.gg/1312th",Ziggo Sport Docu
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/5327
+http://2.cvmtv.site:8080/stream/channelid/1403710339
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="http://gg.gg/1312tk",Ziggo Sport Racing
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/4515
+http://2.cvmtv.site:8080/stream/channelid/891465161
+
+  
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="https://i.ibb.co/ypzWQM4/Eurosport1.png", Eurosport 1
+http://humiptv.live:8080/live/876465421460/087543135678/6789.ts
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="https://i.ibb.co/QNM5t5m/Eurosport2.png", Eurosport 2
+http://humiptv.live:8080/live/876465421460/087543135678/6791.ts
+
+#EXTINF:0 group-title="🏆| Thể Thao" tvg-logo="https://i.ibb.co/WWrSQT9/TVRI-Sport-HD-BEARTV.png", TVRI SPORT
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="http://gg.gg/12x7ue",Canal 11
+
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="http://gg.gg/12x7ud",TVP Sport
+http://2.cvmtv.site:8080/stream/channelid/1560768115
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="https://tinyurl.com/4s3scab7", MUTV
+https://tinyurl.com/2fazbkr6  
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="https://tinyurl.com/4eew8by5",ESPN US
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/267209
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg logo="https://tinyurl.com/37ynrc89",ESPN2 US
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/281480
+
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="https://tinyurl.com/2p8ch9t8",Маtch ТV
+http://0.vylc.name.vn/matchtv
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="https://tinyurl.com/z3r49y36",Маtch Futbol 1
+http://0.vylc.name.vn/futbol1
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="https://tinyurl.com/36pes3vm",Маtch Futbol 2
+http://0.vylc.name.vn/futbol2
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="https://tinyurl.com/mr2xyb8r",Маtch Futbol 3
+http://0.vylc.name.vn/futbol3
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="https://tinyurl.com/2p8a4h55",Маtch Premier
+
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="http://gg.gg/12x7q7",DAZN 1
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/48355
+
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="http://gg.gg/12x7r1",DAZN 2
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2387
+
+
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="https://i.ibb.co/YWh1jD7/SONY-Sports-Ten1-HD.png",Sony Ten 1
+#EXTVLCOPT:http-user-agent="CloudTV"
+#http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/16622
+http://satline.xyz:8080/live/321671199843686064/7871671199843686/53629.ts
+
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="https://i.ibb.co/b6jWJFs/SONY-Sports-Ten2-HD.png",Sony Ten 2
+#EXTVLCOPT:http-user-agent="CloudTV"
+http://satline.xyz:8080/live/321671199843686064/7871671199843686/53630.ts
+
+  
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="https://i.ibb.co/wy2jCpy/SONY-Sports-Ten3-HD.png",Sony Ten 3
+#EXTVLCOPT:http-user-agent="CloudTV"
+http://satline.xyz:8080/live/321671199843686064/7871671199843686/53631.ts
+#http://watchindia.net:8880/live/80249/77103/1758.ts
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="https://i.ibb.co/Lkfq8Pw/SONY-Sports-Ten4-HD.png",Sony Ten 4
+#EXTVLCOPT:http-user-agent="CloudTV"
+https://lin-gd-001-cf.slivcdn.com/out/v1/ce8b4bf8d5c5487599012e02f2fac049/master_3.m3u8?hdntl=exp=1676436559~acl=*~hmac=ced29fd374793540cc394dd92c9fcd79d95abd33a3698d45edee3293474902bf&amp;originpath=/linear/hls/pb/event/smYybI_JToWaHzwoxSE9qA/stream/aab9d726-f7c3-4be3-a2f2-03279ab0380b:TPE2/variant/e8a1c585479787b9de070decd49eba91/bandwidth/4957889.m3u8
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="https://i.ibb.co/3BhW5qc/SONY-Sports-Ten5-HD.png",Sony Ten 5
+#EXTVLCOPT:http-user-agent="CloudTV"
+#http://partyplay.live:8080/andymagos/YgZGEs555h/14268
+http://satline.xyz:8080/live/321671199843686064/7871671199843686/53628.ts
+
+#EXTINF:-1 group-title="🎬| Phim Quốc Tế" tvg-logo="https://i.ibb.co/pQ09wz4/Sony-Pix.png",Sony Pix
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/49539
+#EXTINF:-1 group-title="🎬| Phim Quốc Tế" tvg-logo="https://i.ibb.co/nQ8k15n/Sony-Sab.png",Sony SAB TV India
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/20649
+#EXTINF:-1 group-title="🎬| Phim Quốc Tế" tvg-logo="https://i.ibb.co/nQ8k15n/Sony-Sab.png",Sony SAB TV Asia
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1073
+#EXTINF:-1 group-title="🎬| Phim Quốc Tế" tvg-logo="https://i.ibb.co/16wQ3t8/Sony-Marathi.png",Sony Marathi
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/193097
+#EXTINF:-1 group-title="🎬| Phim Quốc Tế" tvg-logo="https://i.ibb.co/3vXG2Kq/Sony-Wah.png",Sony Wah
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/165801
+#EXTINF:-1 group-title="🎬| Phim Quốc Tế" tvg-logo="https://i.ibb.co/m51ZGgp/Sony-Aath.png",Sony Aath
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/17005
+#EXTINF:-1 group-title="🎬| Phim Quốc Tế" tvg-logo="https://i.ibb.co/9TmC4Hk/Sony-Sci-Fi.png",Sony Sci-Fi
+http://mfe.cliptv.az/dash/Sony_Sci_Fi_SD.ism/playlist.mpd
+  
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="🏆| Thể Thao",Astro SuperSport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=123
+https://ddy1.onlinewebtv.lol/ddy1/premium123/playlist.m3u8
+#http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/146068
+  
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="🏆| Thể Thao",Astro SuperSport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=124
+https://ddy1.onlinewebtv.lol/ddy1/premium124/playlist.m3u8
+#http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157556
+  
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="🏆| Thể Thao",Astro SuperSport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=125
+https://ddy1.onlinewebtv.lol/ddy1/premium125/playlist.m3u8
+#http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157557
+  
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="🏆| Thể Thao",Astro SuperSport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=126
+https://ddy1.onlinewebtv.lol/ddy1/premium126/playlist.m3u8
+#http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157558 
+
+#EXTINF:-1 tvg-id="" group-title="🏆| Thể Thao" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png", Astro Super Sport 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=127
+https://ddy1.onlinewebtv.lol/ddy1/premium127/playlist.m3u8
+  
+#EXTINF:-1 tvg-id="" group-title="🏆| Thể Thao" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_Premium_RS_logo.png", Arena 1 Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=134
+https://ddy5.onlinewebtv.lol/ddy5/premium134/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🏆| Thể Thao" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_2_Premium_RS_logo.png", Arena 2 Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=135
+https://ddy2.onlinewebtv.lol/ddy2/premium135/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🏆| Thể Thao" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_3_Premium_RS_logo.png", Arena 3 Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=139
+https://ddy2.onlinewebtv.lol/ddy2/premium139/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🏆| Thể Thao" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/2v005r1643205531.png", Arena Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=432
+https://ddy6.onlinewebtv.lol/ddy6/premium432/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🏆| Thể Thao" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_2_SI_logo.png", Arena Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=433
+https://ddy6.onlinewebtv.lol/ddy6/premium433/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🏆| Thể Thao" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_3_SI_logo.png", Arena Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=431
+https://ddy5.onlinewebtv.lol/ddy5/premium431/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🏆| Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Astro_Arena_HD.png", Astro Arena
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=148
+https://ddy2.onlinewebtv.lol/ddy2/premium148/playlist.m3u8  
+  
+  
+#EXTINF:-1 tvg-logo="http://gg.gg/130yv2" group-title="🏆| Thể Thao",UK: BT Sport 1
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/270
+#EXTINF:-1 tvg-logo="http://gg.gg/130yv6" group-title="🏆| Thể Thao",UK: BT Sport 2
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/273
+#EXTINF:-1 tvg-logo="http://gg.gg/130yv7" group-title="🏆| Thể Thao",UK: BT Sport 3
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/271
+#EXTINF:-1 tvg-logo="http://gg.gg/130yva" group-title="🏆| Thể Thao",UK: BT Sport 4
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1124 
+#EXTINF:0 group-title="🏆| Thể Thao" tvg-logo="https://i.ibb.co/2hyptTN/ccbillard.png",Billard TV
+#EXTVLCOPT:http-user-agent="CloudTV"
+https://tinyurl.com/2rjmp6bn
+  
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="https://i.ibb.co/94RLkpL/ccBein1.png",BEIN Sports 1
+#EXTVLCOPT:http-user-agent="CloudTV"
+http://0.vylc.name.vn:8080/stream/channelid/1625287896
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="https://i.ibb.co/jMp9WQx/ccBein2.png",BEIN Sports 2
+#EXTVLCOPT:http-user-agent="CloudTV"
+http://0.vylc.name.vn:8080/stream/channelid/2047845480
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="https://i.ibb.co/DrHRpRX/ccBein3.png",BEIN Sports 3
+#EXTVLCOPT:http-user-agent="CloudTV"
+
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="https://i.ibb.co/ydv8Hzn/ccBein4.png",BEIN Sports 4
+#EXTVLCOPT:http-user-agent="CloudTV"
+
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="https://i.ibb.co/VpSVBnm/ccBein5.png",BEIN Sports 5
+#EXTVLCOPT:http-user-agent="CloudTV"
+
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="https://i.ibb.co/n8d1Yh6/ccBein6.png",BEIN Sports 6
+#EXTVLCOPT:http-user-agent="CloudTV"
+
+#EXTINF:-1 group-title="🏆| Thể Thao" tvg-logo="https://i.ibb.co/xGLxkbL/ccBein7.png",BEIN Sports 7
+#EXTVLCOPT:http-user-agent="CloudTV"
